@@ -29,7 +29,7 @@ export function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex items-center shrink-0">
               <Image
-                src="/athamarat logo.png"
+                src="/athamarat-logo.png"
                 alt="Athamarat"
                 width={160}
                 height={48}
