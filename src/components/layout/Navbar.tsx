@@ -31,9 +31,9 @@ export function Navbar() {
               <Image
                 src="/images/athamarat-logo.png"
                 alt="Athamarat"
-                width={240}
-                height={80}
-                className="h-16 w-auto object-contain"
+                width={300}
+                height={100}
+                className="h-[54px] w-auto object-contain"
                 priority
               />
             </Link>
