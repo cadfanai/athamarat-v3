@@ -31,8 +31,8 @@ export default function HomePage() {
             </div>
 
             <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-white leading-[1.05] mb-6">
-              Grow more.<br />
-              <span className="text-orange-400">Risk less.</span>
+              Let's grow<br />
+<span className="text-orange-400">together.</span>
             </h1>
 
             <p className="text-lg sm:text-xl text-white/80 leading-relaxed mb-10 max-w-xl">
