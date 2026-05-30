@@ -14,7 +14,7 @@ export default function HomePage() {
         {/* Background image */}
         <div className="absolute inset-0">
           <Image
-            src="/pic 1.png"
+            src="/athamarat-pic1.png"
             alt="East African farmland"
             fill
             className="object-cover"
@@ -115,7 +115,7 @@ export default function HomePage() {
 
       {/* ── LANDSCAPE VISUAL BREAK ────────────────────────────── */}
       <section className="relative h-72 overflow-hidden">
-        <Image src="/pic 2.png" alt="East African vegetable farm at sunset" fill className="object-cover" />
+        <Image src="/athamarat-pic2.png" alt="East African vegetable farm at sunset" fill className="object-cover" />
         <div className="absolute inset-0 bg-green-900/50 flex items-center justify-center">
           <div className="text-center text-white px-4">
             <h3 className="font-display text-3xl font-bold mb-3">Serving farmers across 5 countries</h3>
@@ -215,7 +215,7 @@ export default function HomePage() {
 
       {/* ── LANDSCAPE VISUAL BREAK 2 ──────────────────────────── */}
       <section className="relative h-80 overflow-hidden">
-        <Image src="/pic 3.png" alt="Ethiopian highlands" fill className="object-cover object-center" />
+        <Image src="/athamarat-pic3.png" alt="Ethiopian highlands" fill className="object-cover object-center" />
         <div className="absolute inset-0 bg-gradient-to-t from-green-950/80 via-green-900/30 to-transparent flex items-end">
           <div className="container-main pb-12 text-white">
             <h3 className="font-display text-2xl font-bold mb-2">Rooted in the Horn of Africa</h3>
@@ -253,7 +253,7 @@ export default function HomePage() {
               </div>
             </div>
             <div className="relative h-96 rounded-3xl overflow-hidden shadow-2xl">
-              <Image src="/pic 4.png" alt="Simien Mountains Ethiopia" fill className="object-cover" />
+              <Image src="/athamarat-pic4.png" alt="Simien Mountains Ethiopia" fill className="object-cover" />
             </div>
           </div>
         </div>
@@ -278,7 +278,7 @@ export default function HomePage() {
 
       {/* ── FINAL CTA ─────────────────────────────────────────── */}
       <section className="relative py-24 overflow-hidden">
-        <Image src="/pic 1.png" alt="Farm background" fill className="object-cover" />
+        <Image src="/athamarat-pic1.png" alt="Farm background" fill className="object-cover" />
         <div className="absolute inset-0 bg-green-950/85" />
         <div className="container-main relative z-10 text-center">
           <h2 className="font-display text-4xl font-bold text-white mb-4">Ready to order?</h2>
